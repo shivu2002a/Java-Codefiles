@@ -1,3 +1,3 @@
 # Java-Codefiles
 👋Hey, 
-This rep contains code files related Java Lang and Libraries
+This rep contains code files related to Java Lang and Libraries
