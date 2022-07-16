@@ -1,4 +1,4 @@
-package ProblemSolving.DP;
+package ProblemSolving.DP.ZeroOneKnapSack;
 
 /*
  * Given an array of elements and a value sum, state whether there exists a subset in array with sum equal to target sum
