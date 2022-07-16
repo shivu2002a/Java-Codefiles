@@ -1,4 +1,4 @@
-package ProblemSolving.DP;
+package ProblemSolving.DP.ZeroOneKnapSack;
 /*
  *Given an arrays, state whether it is possible to divide array into two subsets of equal sum 
  */

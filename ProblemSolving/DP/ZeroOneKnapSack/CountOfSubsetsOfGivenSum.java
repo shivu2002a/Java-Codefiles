@@ -1,4 +1,4 @@
-package ProblemSolving.DP;
+package ProblemSolving.DP.ZeroOneKnapSack;
 /* 
  * Find the number of subsets with sum equal to target sum
  * Author : Shivanagouda S A 
