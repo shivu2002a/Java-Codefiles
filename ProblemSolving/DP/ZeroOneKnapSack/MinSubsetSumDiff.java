@@ -1,4 +1,4 @@
-package ProblemSolving.DP;
+package ProblemSolving.DP.ZeroOneKnapSack;
 
 public class MinSubsetSumDiff {
 

@@ -1,4 +1,4 @@
-package ProblemSolving.DP;
+package ProblemSolving.DP.ZeroOneKnapSack;
 
 /**
  * Count number of Subsets pairs With given diff
