@@ -3,7 +3,7 @@ package lambdas.Streams;
 import java.util.*;
 import java.util.stream.*;
 
-public class Streams {
+public class BasicStreams {
     
     public static void main(String[] args) {
         List<String> bingo = Arrays.asList(

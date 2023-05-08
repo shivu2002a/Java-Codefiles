@@ -4,7 +4,7 @@ import java.util.*;
 
 import lambdas.EMP.Employee;
 
-public class Flats {
+public class Flats{
     
     public static void main(String[] args) {
         Employee ishwar = new Employee("Ishwar R", 20);
