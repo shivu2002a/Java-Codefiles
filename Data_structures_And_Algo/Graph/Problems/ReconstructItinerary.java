@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class ReconstructItenarary {
+public class ReconstructItinerary {
     public static List<String> findItinerary(List<List<String>> tickets) {
         Map<String, Queue<String>> map = new HashMap<>();
         for(List<String> l : tickets) {
